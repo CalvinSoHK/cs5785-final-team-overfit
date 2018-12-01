@@ -1,0 +1,3 @@
+# Ignore the csv files of the features
+features_test/
+features_train/
