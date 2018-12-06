@@ -1,0 +1,2 @@
+furniture:statue
+animal:elephant
